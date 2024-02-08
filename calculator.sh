@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#This is to demonstrate how github works
+
 #Adding function
 x=1+2
 

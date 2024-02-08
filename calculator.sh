@@ -9,3 +9,6 @@ x=3-2
 #Division
 x=10/2
 
+#Multiplication
+x=200*2
+
